@@ -48,6 +48,28 @@ The pressure isn't just the timer. It's the security bar creeping up every time 
 
 ---
 
+## What This Version Is
+
+This is WORD HEIST V1 — the original. The core loop, the aesthetic, the pressure system. No operative classes, no run debrief, no bypass tokens. Just the vault, the clock, and six locks.
+
+It's where everything started.
+
+---
+
+## Then Try V3
+
+Three versions later, WORD HEIST is a fully wired game — operative classes with real perks, difficulty scaling that affects time, penalties, and credit multipliers, bypass tokens, full run debrief with stage-by-stage breakdown, achievement toasts, and a complete run history.
+
+Every system that existed in V1 as dead code is now live.
+
+🔗 **[Play WORD HEIST V3](https://ypatole035-ai.github.io/Word-Heist-V3/)**
+
+🔗 **[WORD HEIST V3 Repository](https://github.com/ypatole035-ai/Word-Heist-V3)**
+
+Play V1 first. Then see what three iterations look like.
+
+---
+
 ## Other Games
 
 | Game | Play |
