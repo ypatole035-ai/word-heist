@@ -50,11 +50,9 @@ The pressure isn't just the timer. It's the security bar creeping up every time 
 
 ## Other Games
 
-More browser games and Android projects by the same creator:
-
 | Game | Play |
 |---|---|
-| 💣 MINEPATH V1 — Minesweeper survival | [Play](https://ypatole035-ai.github.io/minepath/) |
+| 💣 MINEPATH V1 — Minesweeper survival | [Play](https://ypatole035-ai.github.io/minepath/) / [Download APK](https://github.com/ypatole035-ai/minepath/releases/latest/download/MINEPATH_V1.apk) |
 | 💣 MINEPATH V5 — Full Android game | [Download APK](https://github.com/ypatole035-ai/MinepathV5/releases/latest/download/MINEPATH.apk) |
 
 ---
@@ -64,6 +62,6 @@ More browser games and Android projects by the same creator:
 **DeVen — [DeVenLucaz](https://github.com/ypatole035-ai)**
 Independent creator based in Pune, India.
 
-Not a developer. Built entirely on Android — no PC, no IDE — using Termux and AI tools. WORD HEIST is one of several games built and deployed this way, entirely from a phone.
+Not a developer. Built entirely on Android — no PC, no IDE — using Termux, Acode, and AI tools. WORD HEIST is one of several games built and deployed this way, entirely from a phone.
 
 ⭐ If the project interests you — as a game or as an experiment — a star on the repo means something.
