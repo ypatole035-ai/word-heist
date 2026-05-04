@@ -64,7 +64,7 @@ Every system that existed in V1 as dead code is now live.
 
 🔗 **[Play WORD HEIST V4](https://devenlucaz.github.io/WordHeistV4/)**
 
-🔗 **[WORD HEIST V3 Repository](https://github.com/DeVenLucaz/WordHeistV4)**
+🔗 **[WORD HEIST V4 Repository](https://github.com/DeVenLucaz/WordHeistV4)**
 
 Play V1 first. Then see what three iterations look like.
 
