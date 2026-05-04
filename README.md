@@ -10,7 +10,7 @@ It's a word game — but it doesn't feel like one.
 
 ## Play Now
 
-🌐 **[Play in Browser — No install needed](https://ypatole035-ai.github.io/word-heist/)**
+🌐 **[Play in Browser — No install needed](https://DeVenLucaz.github.io/word-heist/)**
 
 Works on any mobile browser. Open and play instantly.
 
@@ -62,9 +62,9 @@ Three versions later, WORD HEIST is a fully wired game — operative classes wit
 
 Every system that existed in V1 as dead code is now live.
 
-🔗 **[Play WORD HEIST V3](https://ypatole035-ai.github.io/Word-Heist-V3/)**
+🔗 **[Play WORD HEIST V4](https://devenlucaz.github.io/WordHeistV4/)**
 
-🔗 **[WORD HEIST V3 Repository](https://github.com/ypatole035-ai/Word-Heist-V3)**
+🔗 **[WORD HEIST V3 Repository](https://github.com/DeVenLucaz/WordHeistV4)**
 
 Play V1 first. Then see what three iterations look like.
 
@@ -74,14 +74,14 @@ Play V1 first. Then see what three iterations look like.
 
 | Game | Play |
 |---|---|
-| 💣 MINEPATH V1 — Minesweeper survival | [Play](https://ypatole035-ai.github.io/minepath/) / [Download APK](https://github.com/ypatole035-ai/minepath/releases/latest/download/MINEPATH_V1.apk) |
-| 💣 MINEPATH V5 — Full Android game | [Download APK](https://github.com/ypatole035-ai/MinepathV5/releases/latest/download/MINEPATH.apk) |
+| 💣 MINEPATH V1 — Minesweeper survival | [Play](https://DeVenLucaz.github.io/minepath/) / [Download APK](https://github.com/DeVenLucaz/minepath/releases/latest/download/MINEPATH_V1.apk) |
+| 💣 MINEPATH V5 — Full Android game | [Download APK](https://github.com/DeVenLucaz/MinepathV5/releases/latest/download/MINEPATH.apk) |
 
 ---
 
 ## Built By
 
-**DeVen — [DeVenLucaz](https://github.com/ypatole035-ai)**
+**DeVen — [DeVenLucaz](https://github.com/DeVenLucaz)**
 Independent creator based in Pune, India.
 
 Not a developer. Built entirely on Android — no PC, no IDE — using Termux, Acode, and AI tools. WORD HEIST is one of several games built and deployed this way, entirely from a phone.
